@@ -11,14 +11,14 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: matrics1
+      - name: metrics1
         uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
 
           # Options
-          filename: matrics1.svg
+          filename: metrics1.svg
           user: hijiki51
           template: classic
           base: header, activity, community, repositories, metadata
@@ -49,7 +49,7 @@ jobs:
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
 
           # Options
-          filename: matrics2.svg
+          filename: metrics1.svg
           user: hijiki51
           base: ""
           config_timezone: Asia/Tokyo
