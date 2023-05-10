@@ -49,7 +49,7 @@ jobs:
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
 
           # Options
-          filename: metrics1.svg
+          filename: metrics2.svg
           user: hijiki51
           base: ""
           config_timezone: Asia/Tokyo
