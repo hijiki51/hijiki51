@@ -214,18 +214,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 800kb of code in 953 edited files across 185 commits over last 91 days</small>
+                <small>estimation from 716kb of code in 944 edited files across 181 commits over last 90 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="284.4634653605567" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="284.4634653605567" y="0" width="79.2384844159502" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="363.70194977650686" y="0" width="54.031962140632785" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="417.73391191713966" y="0" width="17.424824682423367" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="435.158736599563" y="0" width="17.2615927603826" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="452.42032935994564" y="0" width="7.579670640054357" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="321.4534814741803" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="321.4534814741803" y="0" width="61.97850899048474" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="383.43199046466503" y="0" width="28.085796111028973" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="411.517786575694" y="0" width="19.987514990225552" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="431.5053015659196" y="0" width="19.800276349485358" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="451.30557791540497" y="0" width="8.694422084595068" height="8" fill="#DA3434"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -237,20 +237,20 @@
                                 TeX
                             </div>
                             <small>
-                                <div>388 kB</div>
-                                <div>61.84%</div>
+                                <div>382 kB</div>
+                                <div>69.88%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#DA5B0B" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Go
+                                Jupyter Notebook
                             </div>
                             <small>
-                                <div>73.8 kB</div>
-                                <div>11.75%</div>
+                                <div>33.4 kB</div>
+                                <div>6.11%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -262,7 +262,7 @@
                             </div>
                             <small>
                                 <div>23.5 kB</div>
-                                <div>3.75%</div>
+                                <div>4.3%</div>
                             </small>
                         </div>
                     </section>
@@ -270,13 +270,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#DA5B0B" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Jupyter Notebook
+                                Go
                             </div>
                             <small>
-                                <div>108 kB</div>
-                                <div>17.23%</div>
+                                <div>73.8 kB</div>
+                                <div>13.47%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -288,7 +288,7 @@
                             </div>
                             <small>
                                 <div>23.8 kB</div>
-                                <div>3.79%</div>
+                                <div>4.35%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -300,7 +300,7 @@
                             </div>
                             <small>
                                 <div>10.3 kB</div>
-                                <div>1.65%</div>
+                                <div>1.89%</div>
                             </small>
                         </div>
                     </section>
@@ -2663,7 +2663,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Apr 2024, 09:52:11 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Apr 2024, 21:20:43 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
